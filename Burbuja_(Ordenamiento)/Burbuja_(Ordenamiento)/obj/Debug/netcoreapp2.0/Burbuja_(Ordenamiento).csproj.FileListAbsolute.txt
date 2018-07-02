@@ -1,0 +1,11 @@
+C:\Users\VICTOR\source\repos\Burbuja_(Ordenamiento)\Burbuja_(Ordenamiento)\bin\Debug\netcoreapp2.0\Burbuja_(Ordenamiento).deps.json
+C:\Users\VICTOR\source\repos\Burbuja_(Ordenamiento)\Burbuja_(Ordenamiento)\bin\Debug\netcoreapp2.0\Burbuja_(Ordenamiento).runtimeconfig.json
+C:\Users\VICTOR\source\repos\Burbuja_(Ordenamiento)\Burbuja_(Ordenamiento)\bin\Debug\netcoreapp2.0\Burbuja_(Ordenamiento).runtimeconfig.dev.json
+C:\Users\VICTOR\source\repos\Burbuja_(Ordenamiento)\Burbuja_(Ordenamiento)\bin\Debug\netcoreapp2.0\Burbuja_(Ordenamiento).dll
+C:\Users\VICTOR\source\repos\Burbuja_(Ordenamiento)\Burbuja_(Ordenamiento)\bin\Debug\netcoreapp2.0\Burbuja_(Ordenamiento).pdb
+C:\Users\VICTOR\source\repos\Burbuja_(Ordenamiento)\Burbuja_(Ordenamiento)\obj\Debug\netcoreapp2.0\Burbuja_(Ordenamiento).csprojAssemblyReference.cache
+C:\Users\VICTOR\source\repos\Burbuja_(Ordenamiento)\Burbuja_(Ordenamiento)\obj\Debug\netcoreapp2.0\Burbuja_(Ordenamiento).csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\source\repos\Burbuja_(Ordenamiento)\Burbuja_(Ordenamiento)\obj\Debug\netcoreapp2.0\Burbuja_(Ordenamiento).AssemblyInfoInputs.cache
+C:\Users\VICTOR\source\repos\Burbuja_(Ordenamiento)\Burbuja_(Ordenamiento)\obj\Debug\netcoreapp2.0\Burbuja_(Ordenamiento).AssemblyInfo.cs
+C:\Users\VICTOR\source\repos\Burbuja_(Ordenamiento)\Burbuja_(Ordenamiento)\obj\Debug\netcoreapp2.0\Burbuja_(Ordenamiento).dll
+C:\Users\VICTOR\source\repos\Burbuja_(Ordenamiento)\Burbuja_(Ordenamiento)\obj\Debug\netcoreapp2.0\Burbuja_(Ordenamiento).pdb
