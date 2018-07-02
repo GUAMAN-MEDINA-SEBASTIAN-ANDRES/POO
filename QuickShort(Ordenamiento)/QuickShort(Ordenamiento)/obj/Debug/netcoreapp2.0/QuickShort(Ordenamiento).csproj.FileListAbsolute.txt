@@ -1,0 +1,10 @@
+C:\Users\VICTOR\source\repos\QuickShort(Ordenamiento)\QuickShort(Ordenamiento)\bin\Debug\netcoreapp2.0\QuickShort(Ordenamiento).deps.json
+C:\Users\VICTOR\source\repos\QuickShort(Ordenamiento)\QuickShort(Ordenamiento)\bin\Debug\netcoreapp2.0\QuickShort(Ordenamiento).runtimeconfig.json
+C:\Users\VICTOR\source\repos\QuickShort(Ordenamiento)\QuickShort(Ordenamiento)\bin\Debug\netcoreapp2.0\QuickShort(Ordenamiento).runtimeconfig.dev.json
+C:\Users\VICTOR\source\repos\QuickShort(Ordenamiento)\QuickShort(Ordenamiento)\bin\Debug\netcoreapp2.0\QuickShort(Ordenamiento).dll
+C:\Users\VICTOR\source\repos\QuickShort(Ordenamiento)\QuickShort(Ordenamiento)\bin\Debug\netcoreapp2.0\QuickShort(Ordenamiento).pdb
+C:\Users\VICTOR\source\repos\QuickShort(Ordenamiento)\QuickShort(Ordenamiento)\obj\Debug\netcoreapp2.0\QuickShort(Ordenamiento).csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\source\repos\QuickShort(Ordenamiento)\QuickShort(Ordenamiento)\obj\Debug\netcoreapp2.0\QuickShort(Ordenamiento).AssemblyInfoInputs.cache
+C:\Users\VICTOR\source\repos\QuickShort(Ordenamiento)\QuickShort(Ordenamiento)\obj\Debug\netcoreapp2.0\QuickShort(Ordenamiento).AssemblyInfo.cs
+C:\Users\VICTOR\source\repos\QuickShort(Ordenamiento)\QuickShort(Ordenamiento)\obj\Debug\netcoreapp2.0\QuickShort(Ordenamiento).dll
+C:\Users\VICTOR\source\repos\QuickShort(Ordenamiento)\QuickShort(Ordenamiento)\obj\Debug\netcoreapp2.0\QuickShort(Ordenamiento).pdb
