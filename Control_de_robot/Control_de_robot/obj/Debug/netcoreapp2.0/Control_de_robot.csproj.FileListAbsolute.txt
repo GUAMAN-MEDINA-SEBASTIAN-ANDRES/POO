@@ -1,0 +1,11 @@
+C:\Users\VICTOR\source\repos\Control_de_robot\Control_de_robot\bin\Debug\netcoreapp2.0\Control_de_robot.deps.json
+C:\Users\VICTOR\source\repos\Control_de_robot\Control_de_robot\bin\Debug\netcoreapp2.0\Control_de_robot.runtimeconfig.json
+C:\Users\VICTOR\source\repos\Control_de_robot\Control_de_robot\bin\Debug\netcoreapp2.0\Control_de_robot.runtimeconfig.dev.json
+C:\Users\VICTOR\source\repos\Control_de_robot\Control_de_robot\bin\Debug\netcoreapp2.0\Control_de_robot.dll
+C:\Users\VICTOR\source\repos\Control_de_robot\Control_de_robot\bin\Debug\netcoreapp2.0\Control_de_robot.pdb
+C:\Users\VICTOR\source\repos\Control_de_robot\Control_de_robot\obj\Debug\netcoreapp2.0\Control_de_robot.csprojAssemblyReference.cache
+C:\Users\VICTOR\source\repos\Control_de_robot\Control_de_robot\obj\Debug\netcoreapp2.0\Control_de_robot.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\source\repos\Control_de_robot\Control_de_robot\obj\Debug\netcoreapp2.0\Control_de_robot.AssemblyInfoInputs.cache
+C:\Users\VICTOR\source\repos\Control_de_robot\Control_de_robot\obj\Debug\netcoreapp2.0\Control_de_robot.AssemblyInfo.cs
+C:\Users\VICTOR\source\repos\Control_de_robot\Control_de_robot\obj\Debug\netcoreapp2.0\Control_de_robot.dll
+C:\Users\VICTOR\source\repos\Control_de_robot\Control_de_robot\obj\Debug\netcoreapp2.0\Control_de_robot.pdb
