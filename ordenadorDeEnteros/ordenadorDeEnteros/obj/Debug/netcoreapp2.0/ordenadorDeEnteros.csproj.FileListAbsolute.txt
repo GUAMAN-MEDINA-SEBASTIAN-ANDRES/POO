@@ -1,0 +1,11 @@
+C:\Users\VICTOR\source\repos\ordenadorDeEnteros\ordenadorDeEnteros\bin\Debug\netcoreapp2.0\ordenadorDeEnteros.deps.json
+C:\Users\VICTOR\source\repos\ordenadorDeEnteros\ordenadorDeEnteros\bin\Debug\netcoreapp2.0\ordenadorDeEnteros.runtimeconfig.json
+C:\Users\VICTOR\source\repos\ordenadorDeEnteros\ordenadorDeEnteros\bin\Debug\netcoreapp2.0\ordenadorDeEnteros.runtimeconfig.dev.json
+C:\Users\VICTOR\source\repos\ordenadorDeEnteros\ordenadorDeEnteros\bin\Debug\netcoreapp2.0\ordenadorDeEnteros.dll
+C:\Users\VICTOR\source\repos\ordenadorDeEnteros\ordenadorDeEnteros\bin\Debug\netcoreapp2.0\ordenadorDeEnteros.pdb
+C:\Users\VICTOR\source\repos\ordenadorDeEnteros\ordenadorDeEnteros\obj\Debug\netcoreapp2.0\ordenadorDeEnteros.csprojAssemblyReference.cache
+C:\Users\VICTOR\source\repos\ordenadorDeEnteros\ordenadorDeEnteros\obj\Debug\netcoreapp2.0\ordenadorDeEnteros.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\source\repos\ordenadorDeEnteros\ordenadorDeEnteros\obj\Debug\netcoreapp2.0\ordenadorDeEnteros.AssemblyInfoInputs.cache
+C:\Users\VICTOR\source\repos\ordenadorDeEnteros\ordenadorDeEnteros\obj\Debug\netcoreapp2.0\ordenadorDeEnteros.AssemblyInfo.cs
+C:\Users\VICTOR\source\repos\ordenadorDeEnteros\ordenadorDeEnteros\obj\Debug\netcoreapp2.0\ordenadorDeEnteros.dll
+C:\Users\VICTOR\source\repos\ordenadorDeEnteros\ordenadorDeEnteros\obj\Debug\netcoreapp2.0\ordenadorDeEnteros.pdb
